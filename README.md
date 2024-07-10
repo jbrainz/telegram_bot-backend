@@ -31,4 +31,5 @@ This project is divided into two main phases. The first phase involves creating 
   }
   ```
 
-- **Bot Name**
+- **Bot Name** : @pius_rnd_bot
+- **Server URI** : https://telegrambot-backend-production-b011.up.railway.app/api
